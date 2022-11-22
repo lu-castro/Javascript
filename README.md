@@ -1,6 +1,12 @@
 # Javascript
 
 ## Conditionals.js
+#### calcularEdad()
+Al ingresar tu edad dentro del input se evalúa si el valor es mayor o menor a 18. El valor es "capturado" por la función a través del id del input, a través de document.getElementById("edad").value. 
+###### if
+Una vez obtenido el valor se evalúa si es mayor o igual a 18. En el caso de que sí, el método alert() muestra en pantalla "Podés entrar a esta página".
+###### else
+En el caso que el valor sea menor a 18, alert() se encarga de mostrar "Vos no podés entrar a esta página". 
 
 ## Strings.js 
 #### Tipos de cadenadas
