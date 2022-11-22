@@ -16,20 +16,20 @@ Dentro de las variables: let declara una variable de alcance local a la cual se 
 ###### toUperCase
 Mayúsculas
 ###### toLowerCase
-Minúsculas 
+Minúsculas. 
 ###### includes() 
-Busca un string dentro de un texto 
+Busca un string dentro de un texto. 
 ###### trim()
-Elimina los espacios en blanco dentro de un texto
+Elimina los espacios en blanco dentro de un texto.
 ###### split()
-Separa el texto dependiendo de lo que se encuentre dentro de los paréntesis 
+Separa el texto dependiendo de lo que se encuentre dentro de los paréntesis. 
 
 #### Propiedades
 ###### lenght
 Muestra la cantidad de caracteres empezando por cero. 
 
 ## Integers.js
-Se definen Strings con valores de números enteros y decimales
+Se definen Strings con valores de números enteros y decimales.
 
 #### Métodos
 ###### typeof
@@ -37,14 +37,14 @@ Define el tipo de dato: string, integer, boolean.
 ###### instanceof 
 Verifica que el valor de la cadena sea el requerido por el prototype. 
 ###### toFixed 
-Convierte el número en un string y lo redondea a un número específico de decimales 
+Convierte el número en un string y lo redondea a un número específico de decimales.  
 
 
 #### Funciones
 ###### parseInt
 Convierte el string en un número.
 ###### parseFloat 
-Imprime el número entero con su decimal
+Imprime el número entero con su decimal.
 
 
 
