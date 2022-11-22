@@ -14,7 +14,7 @@ Dentro de las variables: let declara una variable de alcance local a la cual se 
 
 #### Métodos
 ###### toUperCase
-Mayúsculas
+Mayúsculas. 
 ###### toLowerCase
 Minúsculas. 
 ###### includes() 
