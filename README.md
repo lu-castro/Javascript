@@ -28,4 +28,25 @@ Separa el texto dependiendo de lo que se encuentre dentro de los paréntesis
 ###### lenght
 Muestra la cantidad de caracteres empezando por cero. 
 
+## Integers.js
+Se definen Strings con valores de números enteros y decimales
+
+#### Métodos
+###### typeof
+Define el tipo de dato: string, integer, boolean.
+###### instanceof 
+Verifica que el valor de la cadena sea el requerido por el prototype. 
+###### toFixed 
+Convierte el número en un string y lo redondea a un número específico de decimales 
+
+
+#### Funciones
+###### parseInt
+Convierte el string en un número.
+###### parseFloat 
+Imprime el número entero con su decimal
+
+
+
+
 
