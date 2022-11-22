@@ -12,6 +12,7 @@ En el caso que el valor sea menor a 18, alert() se encarga de mostrar "Vos no po
 #### Tipos de cadenadas
 Dentro de las variables: let declara una variable de alcance local a la cual se le puede asignar un valor, const declara una variable de alcance local que no se puede modificar y tampoco puede ser redeclarada. 
 
+
 #### Métodos
 ###### toUperCase
 Mayúsculas. 
