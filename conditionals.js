@@ -9,6 +9,7 @@ function calcularEdad(){
     }
 }
 
+
 function edadAlice() {
     var edadAlice = document.getElementById("edadAlice").value;
     if(edadAlice < 18){
