@@ -24,6 +24,7 @@ return 'cat'.charAt(1) // devuelve el caracter numero uno, es decir 'a'
 
 // Comparar cadenas //
 
+
 let a = 'a'  //let declara una variable de alcance local a la cual se le puede asignar un valor
 let b = 'b'
 if (a < b) {
