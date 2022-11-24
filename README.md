@@ -21,7 +21,7 @@ Mayúsculas.
 Minúsculas. 
 ###### includes() 
 Busca un string dentro de un texto. 
-###### trim()
+###### trim(
 Elimina los espacios en blanco dentro de un texto.
 ###### split()
 Separa el texto dependiendo de lo que se encuentre dentro de los paréntesis. 
@@ -59,6 +59,10 @@ Devuelve valores de True o False dependiendo de la condición.
 Convierte al valor Booleano en un string y devuelve un resultado.
 ###### valueOf()  
 Devuelve un valor Booleano primitivo.  
+
+
+## Dowhile.js
+
 
 
 
