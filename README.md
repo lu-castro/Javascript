@@ -8,10 +8,11 @@ Una vez obtenido el valor se evalúa si es mayor o igual a 18. En el caso de que
 ###### else
 En el caso que el valor sea menor a 18, alert() se encarga de mostrar "Vos no podés entrar a esta página". 
 
+
+
 ## Strings.js 
 #### Tipos de cadenadas
 Dentro de las variables: let declara una variable de alcance local a la cual se le puede asignar un valor, const declara una variable de alcance local que no se puede modificar y tampoco puede ser redeclarada. 
-
 
 #### Métodos
 ###### toUperCase
@@ -28,6 +29,8 @@ Separa el texto dependiendo de lo que se encuentre dentro de los paréntesis.
 #### Propiedades
 ###### lenght
 Muestra la cantidad de caracteres empezando por cero. 
+
+
 
 ## Integers.js
 Se definen Strings con valores de números enteros y decimales.
@@ -47,6 +50,15 @@ Convierte el string en un número.
 ###### parseFloat 
 Imprime el número entero con su decimal.
 
+
+
+## Boolenas.js 
+Devuelve valores de True o False dependiendo de la condición.
+#### Métodos
+###### toString() 
+Convierte al valor Booleano en un string y devuelve un resultado.
+###### valueOf()  
+Devuelve un valor Booleano primitivo.  
 
 
 
