@@ -6,6 +6,7 @@ prototype // permite agregar propiedades y métodos al prototipo Booleano
 toString() // convierte al valor Booleano en un string y devuelve un resultado 
 valueOf() // Devuelve un valor Booleano primitivo 
 
+
 let verdadero = true;
 let falso = false;
 let v = Boolean(true);
