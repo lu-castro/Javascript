@@ -1,4 +1,4 @@
-// for
+//FOR
 for(let i = 0; i <= 4; i++) {
     console.log(i);
 }
@@ -32,7 +32,17 @@ for(let i=0; i<numbers.length;i++){
     console.log(numbers[i]);
 }
 
-for(let i=0; i<numbers.length; i++){
-    console.log()
+
+//WHILE
+let cont = 1;
+while(cont <= 100) {           //mientras 1 sea menor a 100 se imprime
+    console.log(cont + " ");   //genera un bucle infinito
+    cont++;                    //incrementa uno cada vez que se imprime la función y lo frena en 100
 }
 
+
+let cont = 1;
+do {
+    console.log(cont + " ");
+    cont++; 
+} while(cont <= 0);
