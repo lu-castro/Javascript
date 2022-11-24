@@ -61,7 +61,7 @@ Convierte al valor Booleano en un string y devuelve un resultado.
 Devuelve un valor Booleano primitivo.  
 
 
-## Dowhile.js
+## Forwhile.js
 #### For
 *for(let i = 0; i <= 4; i++) {*
     *console.log(i);*
