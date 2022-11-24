@@ -62,8 +62,21 @@ Devuelve un valor Booleano primitivo.
 
 
 ## Dowhile.js
+#### For
+*for(let i = 0; i <= 4; i++) {*
+    *console.log(i);*
+*}*
 
+Let i = 0, en la primera vuelta i es igual a cero. La condición es i <= 10 . Si se cumple con la condición, se incrementa uno cada vuelta hasta llegar al 10. 
 
+#### While
+*let cont = 1;*
+*while(cont <= 100) {       *    
+    *console.log(cont + " ");   *
+    *cont++;   *                
+*}*
+
+Mientras 1 sea menor a 100 se imprime generando un bucle infinito, incrementa uno cada vez que se imprime la función y lo frena en 100. 
 
 
 
