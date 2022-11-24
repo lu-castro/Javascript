@@ -21,6 +21,7 @@ let b = new Number(1);
 let c = 7.19;
 let d = "5.6"; 
 
+
 console.log(typeof c, typeof d); // devuelve qué tipo de dato estamos usando 
 console.log(a, b) //devuelve 1 
 console.log(c.toFixed(1)); // el método toFixed(1) muestra solo un dígito del decimal, es decir 7,2
