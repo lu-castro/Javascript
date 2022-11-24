@@ -7,12 +7,11 @@ function calcularEdad(){
     } else {
         alert("Vos no podés entrar a esta página");
     }
-    
 }
 
 function edadAlice() {
     var edadAlice = document.getElementById("edadAlice").value;
-    if (edadAlice < 18) {
+    if(edadAlice < 18){
         alert("Alice es menor de edad");
     } else if (edadAlice >= 18 && edadAlice <= 21) {
         alert("Alice tiene entre 18 y 21");
